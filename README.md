@@ -1,4 +1,4 @@
-# IgniteReact-03-Challenge1
+# Desafio: Criando uma aplicação do zero
 Desafio 1 do 3º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
